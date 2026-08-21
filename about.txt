@@ -1,2 +1,0 @@
-this is about git project
-I am learning git and github, PR & Conflict Resolution
